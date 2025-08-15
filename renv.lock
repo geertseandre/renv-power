@@ -279,14 +279,15 @@
     },
     "skimr": {
       "Package": "skimr",
-      "Version": "2.2.1",
+      "Version": "2.1.4",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Requirements": [
         "R",
         "cli",
         "dplyr",
         "knitr",
+        "magrittr",
         "pillar",
         "purrr",
         "repr",
@@ -298,7 +299,7 @@
         "tidyselect",
         "vctrs"
       ],
-      "Hash": "ed4de9d8da04be27d3cd3a250f946fe5"
+      "Hash": "ffdd2d11832e37d92a118d44dc44f50e"
     },
     "stringi": {
       "Package": "stringi",
